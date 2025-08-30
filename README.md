@@ -1,8 +1,4 @@
-# README – Customer Basket Clustering
-
-## Title
-
-**Clustering Customer Baskets with K-Means, Agglomerative, and DBSCAN**
+# Clustering Customer Baskets with K-Means, Agglomerative, and DBSCAN
 
 ## Objective
 
